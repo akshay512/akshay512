@@ -22,16 +22,17 @@ void main() {
 }
 ```
 
-###⭐️ My Repos
+### My Repos ⭐️
 
 
 <a href="https://github.com/akshay512/bottom_loader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay512&repo=bottom_loader" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay512&repo=bottom_loader&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/akshay512/tabbed_sliverlist">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay512&repo=tabbed_sliverlist" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay512&repo=tabbed_sliverlist&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
 
 
 ![Akshay A S Github Stats](https://github-readme-stats.vercel.app/api?username=akshay512&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
